@@ -208,3 +208,4 @@ networks:
     name: openwa-network
   app-net:
     external: true
+    name: keeel_app-net
