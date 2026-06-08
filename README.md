@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/logo/openwa_logo.webp" alt="OpenWA Logo" width="200"/>
+  <img src="docs/logo/amak_logo.webp" alt="OpenWA Logo" width="200"/>
 </p>
 
 <h1 align="center">OpenWA</h1>
